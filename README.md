@@ -21,8 +21,8 @@ A complete implementation of a transformer-based language model chatbot built fr
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/llm-chatbot.git
-cd llm-chatbot
+git clone https://github.com/VitaAccount/Vitacoding
+cd Vitacoding
 ```
 
 2. Create a virtual environment and install dependencies:
